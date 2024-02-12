@@ -3,7 +3,7 @@ package myPack;
 public class Example1 {
 	public void show()
 	{
-		System.out.println("Good Morning");
+		System.out.println("Good Morning ");
 	}
 
 	public static void main(String[] args) {
